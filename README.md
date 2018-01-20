@@ -7,7 +7,7 @@ You will need Visual Studio to compile the project, [premake5](http://premake.gi
 After you've got the pre-requisites, open a command prompt in the project directory and run `premake5 vs2017` (or whatever version of visual studio you have) - a `TeknoFfb.sln` file will be generated. Open that with visual studio, do any edits you wish, and compile it to a dll.
 
 # Usage
-Place the compiled `ffbplugin.dll` into the **game's** directory (not TeknoParrot's!)
+Place the compiled `ffbplugin.dll` into the **game's** directory (not TeknoParrot's!). This will only work with version 1.34b or higher.
 
 # Supported games
 
